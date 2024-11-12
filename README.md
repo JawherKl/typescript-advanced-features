@@ -13,6 +13,8 @@ This repository explores some of the most powerful features in TypeScript, with 
 
 Each section provides a comprehensive explanation, examples, and use cases.
 
+## Resource Link: https://angularexperts.io/blog/advanced-typescript?ref=dailydev
+
 ---
 
 Enjoy your exploration into TypeScript's advanced type system!
