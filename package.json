@@ -1,0 +1,15 @@
+{
+  "name": "typescript-advanced-features",
+  "version": "1.0.0",
+  "description": "This repository explores some of the most powerful features in TypeScript, with code examples and explanations for each. These features allow for flexible, reusable, and type-safe code that enhances productivity in TypeScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
